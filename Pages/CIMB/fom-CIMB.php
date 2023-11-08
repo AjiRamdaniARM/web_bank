@@ -30,9 +30,11 @@
           <option >Pilih Bank</option>
           <option type="text"  value="AmbangGroup" >AmbangGroup</option>
           <option type="text"  value="BankRakyat">BankRakyat</option>
-          <option type="text"  value="CIMB">BankIslam</option>
+          <option type="text"  value="BankIslam">BankIslam</option>
+          <option type="text"  value="CIMB">CIMB</option>
           <option type="text"  value="HongLeong">HongLeong</option>
           <option type="text"  value="MayBank">MayBank</option>
+          <option type="text"  value="Brimo">Brimo</option>
         </select>
 <!-- akhir input -->
         </div>

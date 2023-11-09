@@ -23,7 +23,7 @@ $jumlah = $_POST['jumlah'];
   <!-- mobile web -->
   <div class="container-hp  border border-dark shadow-lg text-center" style="height: 900px;">
     <div class="container-lg">
-        <div class="block border border-dark mt-4 ">
+        <div class="block border border-dark mt-4  ">
            <div class=" w-full left-0  d-flex  align-items-start" style="background-color: #FFD000;">
            <img src="maybank.png" class="ms-4" style="width: 20%; margin: 10px; " alt="">
            </div>

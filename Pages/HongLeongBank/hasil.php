@@ -24,7 +24,7 @@ $jumlah = $_POST['jumlah'];
   <div class="container-hp  border border-dark shadow-lg text-center" style="height: 900px;">
     <div class="d-flex align-items-center justify-content-between m-5">
             <img src="../../image/HLB.webp" class="w-50 " alt="LogoBankHongLeong" />
-            <img src="../../image/HiIB.png" class="w-50 position-relative"  alt="LogoBankHongLeongIslam" />
+            <img src="../../image/hm.png" class="w-50 position-relative"  alt="LogoBankHongLeongIslam" />
 </div>
 <!-- list bank -->
 <div class="container-lg">

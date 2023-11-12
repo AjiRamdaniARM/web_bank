@@ -32,7 +32,7 @@ $jumlah = $_POST['jumlah'];
                   <td><div class="text-end ms-5 fw-bold" ><?php 
               date_default_timezone_set('Asia/Jakarta');
                 $waktu_indonesia = date(' H:i:s A');
-               echo date('d F Y'). "<br/>". $waktu_indonesia; ?></div></td>
+               echo date('d M Y, H:i') . $waktu_indonesia; ?></div></td>
                 </tr>
                 <tr>
                   <td><div class="text-start position-relative" >Nomor Referensi</div></td>

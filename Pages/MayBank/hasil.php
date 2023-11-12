@@ -6,7 +6,7 @@ $number_account = $_POST['number_account'];
 $pilih = $_POST['pilih'];
 $reference = $_POST['reference'];
 $description = $_POST['description'];
-$jumlah = $_POST['jumlah'];
+$jumlah = $_POST['jumlah']; 
 ?>
 
 <!DOCTYPE html>
